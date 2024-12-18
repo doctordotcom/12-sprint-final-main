@@ -36,7 +36,7 @@ jobs:
         id: meta
         uses: docker/metadata-action@v5.5.1
         with:
-          images: Doctordotcom/hello-golang
+          images: Doctordotcom/12-sprint-final-main
 
       - name: Build and push Docker Inage
         uses: docker/build-push-action@v5

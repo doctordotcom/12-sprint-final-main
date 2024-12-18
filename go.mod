@@ -1,4 +1,4 @@
-module github.com/yaricks657/sprint-12
+module github.com/Doctordotcom/12-sprint-final-main
 
 go 1.22
 
