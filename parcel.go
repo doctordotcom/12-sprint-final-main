@@ -1,5 +1,3 @@
-// a few changes just to make PR
-
 package main
 
 import (
